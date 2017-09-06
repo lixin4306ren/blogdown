@@ -1,0 +1,9 @@
+{
+    "path" : "~/blogdown/themes/hugo-academic/static",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
