@@ -15,23 +15,28 @@ weight = 10
 [[interests.courses]]
   course = "助理研究员，2008-2012"
   institution = "中科院昆明动物研究所"
+  url="http://www.kiz.cas.cn/"
 
 [[interests.courses]]
   course = "博士后，助理研究员，2012-2017"
   institution = "约翰霍普金斯大学医学院"
+  url="http://www.hopkinsmedicine.org/education/index.html"
   
 [[interests.courses]]
   course = "教授，2017-至今"
   institution = "中山大学医学院（深圳）"
+  url="http://szmed.sysu.edu.cn/"
   
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "遗传学，本硕连读，1999-2005"
   institution = "西北农林科技大学"
+  url="http://www.nwsuaf.edu.cn/"
 
 [[education.courses]]
   course = "进化基因组，博士，2005-2008"
   institution = "中科院昆明动物研究所"
+  url="http://www.kiz.cas.cn/"
 
 
 +++

@@ -56,7 +56,7 @@
             <i class="fa-li fa fa-university"></i>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution }}</p>
+              <p class="institution"><a href= "{{ .url }}" target="_blank">{{ .institution }}</a></p>
             </div>
           </li>
           {{ end }}
@@ -73,7 +73,7 @@
             <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution }}</p>
+              <p class="institution"><a href= "{{ .url }}" target="_blank">{{ .institution }}</a></p>
             </div>
           </li>
           {{ end }}
