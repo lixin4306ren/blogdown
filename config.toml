@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir = true
 [params]
   name = "李昕"
   role = "教授，博士生导师"
-  organization = "中山大学医学院"
+  organization = "中山大学医学院（深圳）"
   organization_url = "http://szmed.sysu.edu.cn/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
