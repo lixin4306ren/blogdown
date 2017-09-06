@@ -22,7 +22,7 @@ weight = 10
   
 [[interests.courses]]
   course = "教授，2017-至今"
-  institution = "中山大学医学院"
+  institution = "中山大学医学院（深圳）"
   
 # List your qualifications (such as academic degrees).
 [[education.courses]]
