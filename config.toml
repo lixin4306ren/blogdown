@@ -1,4 +1,4 @@
-baseurl = "https://lixin.gdn/"  # End your URL with a `/` trailing slash.
+baseurl = ""  # End your URL with a `/` trailing slash.
 title = "癌症表观基因组研究组"
 copyright = "&copy; 2017 Xin Li"
 theme = "hugo-academic"
