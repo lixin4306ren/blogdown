@@ -168,12 +168,16 @@ defaultContentLanguageInSubdir = true
   name = "招生与招聘"
   url = "#recruit"
   weight = 4
-  
+
+[[menu.main]]
+  name = "新闻与动态"
+  url = "#posts"
+  weight = 5
 
 [[menu.main]]
   name = "联系我们"
   url = "#contact"
-  weight = 5
+  weight = 6
 
 # Taxonomies.
 [taxonomies]
