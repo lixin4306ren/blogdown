@@ -21,7 +21,7 @@
 }
 
 html {
-  font-family: 'Merriweather', serif;
+  font-family: 'PingFang SC';
   font-size: 16px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
@@ -77,11 +77,12 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 2rem;
 }
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
+  
 }
 h3 {
   font-weight: 700;
@@ -501,10 +502,7 @@ article {
 /*************************************************
  *  Publications
  **************************************************/
-html {
-  font-family: 'Open Sans', serif;
-  line-height: 1.65;
-}
+
 
 .pub-icon {
   color: #03396c;
