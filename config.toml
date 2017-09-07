@@ -27,6 +27,7 @@ defaultContentLanguageInSubdir = true
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "lixin4306ren@gmail.com"
   address = "中山大学广州校区东校园"
+  address_link = "https://east.sysu.edu.cn"
   office_hours = ""
   phone = ""
   skype = ""
