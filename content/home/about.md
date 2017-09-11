@@ -29,7 +29,7 @@ weight = 10
   
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "遗传学，本硕连读，1999-2005"
+  course = "生物技术，基地班本硕连读，1999-2005"
   institution = "西北农林科技大学"
   url="http://www.nwsuaf.edu.cn/"
 
